@@ -1,0 +1,8 @@
+Constant (1)
+Logarithmic (log N)
+Linear (N)
+Linearithmic (N log N)
+Quadratic (N^2)
+Cubic (N^3)
+Exponential (2^N)
+Factorial (N!)
